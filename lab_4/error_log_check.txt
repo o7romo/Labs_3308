@@ -1,0 +1,291 @@
+Aug 30 18:35:15 oswaldor-VirtualBox kernel: [    2.727638] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Aug 30 18:35:15 oswaldor-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Aug 30 18:35:15 oswaldor-VirtualBox thermald[564]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Aug 30 18:35:15 oswaldor-VirtualBox thermald[564]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Aug 30 18:35:15 oswaldor-VirtualBox thermald[564]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Aug 30 18:35:16 oswaldor-VirtualBox snapd[557]: helpers.go:105: error trying to compare the snap system key: system-key missing on disk
+Aug 30 18:35:17 oswaldor-VirtualBox systemd-resolved[475]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:35:18 oswaldor-VirtualBox /usr/lib/gdm3/gdm-x-session[762]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Aug 30 18:35:19 oswaldor-VirtualBox systemd-resolved[475]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:35:22 oswaldor-VirtualBox systemd-resolved[475]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:35:26 oswaldor-VirtualBox systemd-resolved[475]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:35:27 oswaldor-VirtualBox systemd-resolved[475]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:35:30 oswaldor-VirtualBox systemd-resolved[475]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:35:46 oswaldor-VirtualBox systemd-resolved[475]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:36:18 oswaldor-VirtualBox systemd-resolved[475]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:36:47 oswaldor-VirtualBox snap[647]: error: cannot communicate with server: timeout exceeded while waiting for response
+Aug 30 18:37:22 oswaldor-VirtualBox systemd-resolved[475]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:39:30 oswaldor-VirtualBox systemd-resolved[475]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:43:46 oswaldor-VirtualBox systemd-resolved[475]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:47:13 oswaldor-VirtualBox xdg-desktop-por[1022]: xdg-desktop-portal-gtk: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Aug 30 18:47:13 oswaldor-VirtualBox gnome-shell[1059]: gnome-shell: Fatal IO error 0 (Success) on X server :0.
+Aug 30 18:47:13 oswaldor-VirtualBox gnome-calendar[2389]: gnome-calendar: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Aug 30 18:47:13 oswaldor-VirtualBox seahorse[2391]: seahorse: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Aug 30 18:47:32 oswaldor-VirtualBox kernel: [    2.882226] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Aug 30 18:47:32 oswaldor-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Aug 30 18:47:32 oswaldor-VirtualBox thermald[588]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Aug 30 18:47:32 oswaldor-VirtualBox thermald[588]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Aug 30 18:47:32 oswaldor-VirtualBox thermald[588]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Aug 30 18:47:35 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:47:37 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:47:41 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:47:45 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:47:45 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:47:47 oswaldor-VirtualBox /usr/lib/gdm3/gdm-x-session[953]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Aug 30 18:47:49 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:48:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:48:39 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:49:43 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:51:51 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:53:39 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:53:39 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:53:41 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:53:41 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 18:56:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:01:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:06:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:11:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:16:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:21:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:26:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:29:27 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:29:38 oswaldor-VirtualBox systemd-resolved[507]: message repeated 2 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Aug 30 19:29:54 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:31:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:36:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:41:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:46:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:51:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 19:56:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 20:01:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 20:06:07 oswaldor-VirtualBox systemd-resolved[507]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Aug 30 20:09:27 oswaldor-VirtualBox gnome-shell[1232]: Received error from D-Bus search provider org.gnome.Nautilus.desktop: Gio.DBusError: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name :1.137 was not provided by any .service files
+Aug 30 20:09:42 oswaldor-VirtualBox xdg-desktop-por[1213]: xdg-desktop-portal-gtk: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Aug 30 20:09:42 oswaldor-VirtualBox gnome-shell[1232]: gnome-shell: Fatal IO error 0 (Success) on X server :0.
+Aug 30 20:09:42 oswaldor-VirtualBox [1611]: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Aug 30 20:09:42 oswaldor-VirtualBox [1370]: evolution-alarm-notify: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Aug 30 20:09:42 oswaldor-VirtualBox gnome-calculato[11489]: gnome-calculator-search-provider: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Aug 30 20:09:42 oswaldor-VirtualBox seahorse[11485]: seahorse: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Aug 30 20:09:42 oswaldor-VirtualBox gnome-calendar[11487]: gnome-calendar: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Aug 30 20:09:42 oswaldor-VirtualBox org.gnome.Chara[11486]: org.gnome.Characters.BackgroundService: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Aug 30 20:09:42 oswaldor-VirtualBox gnome-control-c[11480]: gnome-control-center-search-provider: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 16 12:47:13 oswaldor-VirtualBox kernel: [    2.736319] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Sep 16 12:47:13 oswaldor-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 16 12:47:13 oswaldor-VirtualBox thermald[583]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 16 12:47:13 oswaldor-VirtualBox thermald[583]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 16 12:47:13 oswaldor-VirtualBox thermald[583]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 16 12:47:15 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:47:17 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:47:21 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:47:26 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:47:26 oswaldor-VirtualBox /usr/lib/gdm3/gdm-x-session[956]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 16 12:47:29 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:47:31 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:47:31 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:47:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:48:19 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:49:23 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:51:31 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 12:55:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:00:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:05:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:09:03 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:09:08 oswaldor-VirtualBox apt.systemd.daily[2656]: An error occurred: 404  Not Found [IP: 91.189.91.38 80]
+Sep 16 13:10:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:15:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:20:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:25:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:30:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:35:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:40:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:45:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:50:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 13:55:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:00:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:05:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:10:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:15:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:20:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:25:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:30:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 14:35:47 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 15:37:27 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 16 23:34:40 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 19:30:30 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 19:30:30 oswaldor-VirtualBox systemd-resolved[503]: message repeated 2 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Sep 17 19:35:13 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 19:40:13 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 19:45:12 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 19:50:12 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 19:52:57 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 19:52:57 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 19:53:58 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 19:55:13 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:00:12 oswaldor-VirtualBox systemd-resolved[503]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:02:37 oswaldor-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 17 20:05:11 oswaldor-VirtualBox [1233]: xdg-desktop-portal-gtk: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 17 20:05:11 oswaldor-VirtualBox gnome-shell[1269]: gnome-shell: Fatal IO error 0 (Success) on X server :0.
+Sep 17 20:05:11 oswaldor-VirtualBox [1366]: gsd-color: Fatal IO error 4 (Interrupted system call) on X server :0.
+Sep 17 20:05:11 oswaldor-VirtualBox [1376]: gsd-keyboard: Fatal IO error 4 (Interrupted system call) on X server :0.
+Sep 17 20:05:11 oswaldor-VirtualBox [1378]: gsd-power: Fatal IO error 4 (Interrupted system call) on X server :0.
+Sep 17 20:05:11 oswaldor-VirtualBox [1377]: gsd-media-keys: Fatal IO error 4 (Interrupted system call) on X server :0.
+Sep 17 20:05:11 oswaldor-VirtualBox [1407]: gsd-wacom: Fatal IO error 4 (Interrupted system call) on X server :0.
+Sep 17 20:05:11 oswaldor-VirtualBox [1416]: gsd-xsettings: Fatal IO error 4 (Interrupted system call) on X server :0.
+Sep 17 20:05:11 oswaldor-VirtualBox [1389]: evolution-alarm-notify: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 17 20:05:11 oswaldor-VirtualBox [3818]: gnome-calendar: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 17 20:05:11 oswaldor-VirtualBox [1947]: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 17 20:05:11 oswaldor-VirtualBox [1821]: seahorse: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 17 20:10:20 oswaldor-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 17 20:10:20 oswaldor-VirtualBox kernel: [    2.894556] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Sep 17 20:10:20 oswaldor-VirtualBox thermald[524]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 17 20:10:20 oswaldor-VirtualBox thermald[524]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 17 20:10:20 oswaldor-VirtualBox thermald[524]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 17 20:10:23 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:10:25 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:10:29 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:10:33 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:10:34 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:10:37 oswaldor-VirtualBox /usr/lib/gdm3/gdm-x-session[928]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 17 20:10:37 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:10:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:11:26 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:12:30 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:14:38 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:18:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:23:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:28:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:33:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:38:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:43:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:48:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:53:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 20:58:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:03:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:08:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:13:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:18:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:23:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:28:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:33:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:38:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:43:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:48:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:53:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 21:58:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:03:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:08:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:13:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:18:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:23:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:28:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:33:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:38:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:43:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:48:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:53:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 22:58:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:03:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:08:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:13:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:18:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:23:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:28:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:33:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:38:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:43:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:48:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:53:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 17 23:58:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:03:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:08:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:13:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:18:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:23:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:28:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:33:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:38:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:43:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:48:54 oswaldor-VirtualBox systemd-resolved[442]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:53:37 oswaldor-VirtualBox gnome-shell[1151]: gnome-shell: Fatal IO error 0 (Success) on X server :0.
+Sep 18 00:53:37 oswaldor-VirtualBox update-notifier[1545]: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 18 00:53:37 oswaldor-VirtualBox evolution-alarm[1319]: evolution-alarm-notify: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 18 00:53:37 oswaldor-VirtualBox nautilus[5193]: org.gnome.Nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 18 00:53:37 oswaldor-VirtualBox seahorse[1616]: seahorse: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 18 00:53:37 oswaldor-VirtualBox gnome-calendar[1618]: gnome-calendar: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 18 00:54:02 oswaldor-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 18 00:54:02 oswaldor-VirtualBox kernel: [    3.322067] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Sep 18 00:54:02 oswaldor-VirtualBox thermald[518]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 18 00:54:02 oswaldor-VirtualBox thermald[518]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 18 00:54:02 oswaldor-VirtualBox thermald[518]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 18 00:54:06 oswaldor-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:54:08 oswaldor-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:54:12 oswaldor-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:54:16 oswaldor-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:54:16 oswaldor-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:54:20 oswaldor-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:54:21 oswaldor-VirtualBox /usr/lib/gdm3/gdm-x-session[912]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 18 00:54:35 oswaldor-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:55:07 oswaldor-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:56:11 oswaldor-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 00:58:19 oswaldor-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 01:02:35 oswaldor-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 18 01:04:20 oswaldor-VirtualBox update-notifier[1575]: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 18 01:04:20 oswaldor-VirtualBox evolution-alarm[1326]: evolution-alarm-notify: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Sep 18 01:04:20 oswaldor-VirtualBox gnome-shell[1133]: gnome-shell: Fatal IO error 0 (Success) on X server :0.
+Sep 20 20:25:48 oswaldor-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 20 20:25:48 oswaldor-VirtualBox kernel: [    3.603862] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Sep 20 20:25:49 oswaldor-VirtualBox thermald[513]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 20 20:25:49 oswaldor-VirtualBox thermald[513]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 20 20:25:49 oswaldor-VirtualBox thermald[513]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 20 20:25:51 oswaldor-VirtualBox systemd-resolved[435]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 20 20:25:53 oswaldor-VirtualBox systemd-resolved[435]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 20 20:25:57 oswaldor-VirtualBox systemd-resolved[435]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 20 20:26:02 oswaldor-VirtualBox systemd-resolved[435]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 20 20:26:02 oswaldor-VirtualBox systemd-resolved[435]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 20 20:26:05 oswaldor-VirtualBox systemd-resolved[435]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 20 20:26:07 oswaldor-VirtualBox /usr/lib/gdm3/gdm-x-session[910]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 20 20:26:21 oswaldor-VirtualBox systemd-resolved[435]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 20 20:26:53 oswaldor-VirtualBox systemd-resolved[435]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 20 20:27:57 oswaldor-VirtualBox systemd-resolved[435]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 20 20:30:05 oswaldor-VirtualBox systemd-resolved[435]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 20 20:34:08 oswaldor-VirtualBox gnome-shell[1128]: gnome-shell: Fatal IO error 0 (Success) on X server :0.
+Sep 22 11:22:19 oswaldor-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 22 11:22:19 oswaldor-VirtualBox kernel: [    2.774142] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Sep 22 11:22:19 oswaldor-VirtualBox thermald[528]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 22 11:22:19 oswaldor-VirtualBox thermald[528]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 22 11:22:19 oswaldor-VirtualBox thermald[528]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 22 11:22:22 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:22:24 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:22:28 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:22:32 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:22:32 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:22:35 oswaldor-VirtualBox /usr/lib/gdm3/gdm-x-session[904]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 22 11:22:36 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:22:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:23:23 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:24:27 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:26:35 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:30:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:35:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:40:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:45:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:50:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 11:55:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:00:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:05:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:10:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:15:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:20:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:25:56 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:30:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:35:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:40:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:45:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:50:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:55:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 13:00:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 13:05:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 13:10:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 13:15:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 13:20:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 13:25:51 oswaldor-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
